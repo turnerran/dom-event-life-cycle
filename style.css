@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20px;
+  transition: background 500ms;
+}
+
+.middle {
+  height: 100%;
+  width: 100%;
+  background: #9e3434;
+  color: red;
+}
+
+.wrapper {
+  height: 100%;
+  width: 100%;
+  background: red;
+}
+
+button {
+  height: 100px;
+  width: 100px;
+  margin: calc(25% - 50px) calc(50% - 50px);
+  background: #7d3333;
+}
+
+.highlight {
+  background: darkred;
+}
