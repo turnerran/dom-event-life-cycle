@@ -3,20 +3,33 @@
   margin: 0;
   padding: 20px;
   transition: background 500ms;
-}
-
-.middle {
-  height: 100%;
-  width: 100%;
-  background: #9e3434;
   color: red;
 }
 
-.wrapper {
+.wrapper-4 {
+    height: 100%;
+    width: 100%;
+    background: rgb(158, 64, 64);
+  }
+
+.wrapper-3 {
+    height: 100%;
+    width: 100%;
+    background: #8a3232;
+}
+
+.wrapper-2 {
+  height: 100%;
+  width: 100%;
+  background: #9e3434;
+}
+
+.wrapper-1 {
   height: 100%;
   width: 100%;
   background: red;
 }
+
 
 button {
   height: 100px;
