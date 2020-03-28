@@ -7,27 +7,19 @@
 }
 
 .wrapper-4 {
-    height: 100%;
-    width: 100%;
-    background: rgb(158, 64, 64);
-  }
+  background: #c15757;
+}
 
 .wrapper-3 {
-    height: 100%;
-    width: 100%;
-    background: #8a3232;
+  background: #bb4d4d;
 }
 
 .wrapper-2 {
-  height: 100%;
-  width: 100%;
-  background: #9e3434;
+  background: rgb(158, 64, 64);
 }
 
 .wrapper-1 {
-  height: 100%;
-  width: 100%;
-  background: red;
+  background: #8a3232;
 }
 
 
@@ -35,7 +27,7 @@ button {
   height: 100px;
   width: 100px;
   margin: calc(25% - 50px) calc(50% - 50px);
-  background: #7d3333;
+  background: #c87d7d;
 }
 
 .highlight {
